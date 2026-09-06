@@ -161,14 +161,6 @@ Scientific notation
 GUI
 ```
 
----
-
-## License
-
-This project is open source and available under the MIT License.
-
----
-
 ## Author
 
 Created as a Python programming project focused on practicing:
