@@ -49,8 +49,8 @@ Professional Calculator supports basic arithmetic, powers, percentages, and squa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Professional-Calculator.git
-```
+git clone https://github.com/Genius-Progarmmer/Professional-Calculator.git
+````
 
 ### 2. Navigate to the Project
 
@@ -107,8 +107,8 @@ enter second number : 15
 ```text
 Professional-Calculator/
 │
-├── calculator.py
-└── README.md
+├── Professional-Calculator.py
+└── readme.md
 ```
 
 ---
@@ -172,3 +172,8 @@ Created as a Python programming project focused on practicing:
 * Error handling
 * Program structure
 * Mathematical operations
+
+**Genius-Progarmmer**
+
+GitHub: https://github.com/Genius-Progarmmer
+
